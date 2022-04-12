@@ -1,0 +1,42 @@
+.examples {
+    
+    padding: 10px 20px;
+    
+    margin: 0px 10px;
+    width: 100%;
+    height: 200px;
+}
+
+.examples p {
+   
+    padding: 10px 15px;
+   
+}
+.examples_img {
+  
+}
+
+img {
+    display: block;
+    position: none;
+    float: left;
+    width: 180px;
+    height: 160px;
+}
+
+/* .examples_img:not(:first-child) {
+    margin: 10px 20px;
+} */
+
+/* .send {
+    display: block;
+    position: fixed;
+    margin: 15px 10px;
+    padding: 10px 20px;
+}
+
+form {
+    border-top: 10px;
+    margin: 10px 10px;
+    padding: 10px 20px;
+} */
